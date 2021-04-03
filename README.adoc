@@ -1,0 +1,16 @@
+= SimDisplay Protocol
+:toc: preamble
+:toc-title: 
+:toclevels: 1
+
+The communication protocol
+used in SimDisplay's devices and services.
+
+Copyright (C) 2021  Filippo Erik Negroni
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+For a copy of the GNU General Public License see <https://www.gnu.org/licenses/>.
